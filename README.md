@@ -210,25 +210,8 @@ The portfolio is fully responsive with:
 - Smooth animations when switching categories
 - Load more functionality for better performance
 
-## 🤝 Contributing
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Niharika Ramishetty**
-- GitHub: [@Niharika011205](https://github.com/Niharika011205)
-- LinkedIn: [Niharika Ramishetty](https://www.linkedin.com/in/niharikaramishetty/)
-- Email: ramishettyniharika@gmail.com
-- Twitter: [@niharikaRa34259](https://x.com/niharikaRa34259)
 
 ## 🙏 Acknowledgments
 
