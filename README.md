@@ -2,10 +2,7 @@
 
 A modern, responsive portfolio website showcasing my journey as a Full Stack Developer and AI/ML Enthusiast. Built with React, featuring glassmorphism design, dark/light themes, and smooth animations.
 
-![Portfolio Preview](https://img.shields.io/badge/Status-Live-brightgreen)
-![React](https://img.shields.io/badge/React-18.x-blue)
-![Vite](https://img.shields.io/badge/Vite-Latest-purple)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.x-cyan)
+#### Live Link : https://portfolio-uyop.vercel.app/
 
 ## ✨ Features
 
