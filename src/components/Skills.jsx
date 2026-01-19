@@ -4,7 +4,7 @@ import {
   FaGitAlt, FaGithub, FaPython, FaJava, FaDatabase, FaTerminal, FaUsers,
   FaComments, FaLightbulb, FaClock, FaHandshake
 } from "react-icons/fa";
-import { SiTailwindcss, SiBootstrap, SiExpress, SiCplusplus, SiMongodb, SiLinux } from "react-icons/si";
+import { SiTailwindcss, SiBootstrap, SiExpress, SiCplusplus, SiMongodb, SiLinux, SiMysql, SiNumpy, SiPandas } from "react-icons/si";
 
 const skillsData = [
   // Frontend
@@ -19,6 +19,7 @@ const skillsData = [
   { name: "Node.js", icon: FaNode, color: "#339933", category: "Backend" },
   { name: "Express.js", icon: SiExpress, color: "#90C53F", category: "Backend" },
   { name: "MongoDB", icon: SiMongodb, color: "#13AA52", category: "Database" },
+  { name: "MySQL", icon: SiMysql, color: "#4479A1", category: "Database" },
   
   // Programming Languages
   { name: "C", icon: FaDatabase, color: "#A8B9CC", category: "Programming" },
@@ -33,6 +34,8 @@ const skillsData = [
   
   // AI/ML & Analytics
   { name: "Machine Learning", icon: FaBrain, color: "#FF6F00", category: "AI/ML" },
+  { name: "NumPy", icon: SiNumpy, color: "#013243", category: "AI/ML" },
+  { name: "Pandas", icon: SiPandas, color: "#150458", category: "AI/ML" },
   { name: "Power BI", icon: FaChartBar, color: "#F2C811", category: "Analytics" },
   
   // Tools & Linux
@@ -48,7 +51,7 @@ const skillsData = [
   { name: "Leadership", icon: FaHandshake, color: "#607D8B", category: "Soft Skills" }
 ];
 
-const categories = ["All", "Frontend", "Backend", "Programming", "DSA", "AI/ML", "Tools", "Linux Commands", "Soft Skills"];
+const categories = ["All", "Frontend", "Backend", "Programming", "Database", "DSA", "AI/ML", "Analytics", "Tools", "Linux Commands", "Soft Skills"];
 
 export default function Skills() {
   const [activeCategory, setActiveCategory] = useState("All");
