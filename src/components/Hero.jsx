@@ -1,5 +1,5 @@
 import { FaDownload, FaEnvelope } from "react-icons/fa";
-import profile from "../assets/profile.jpeg";
+import profile from "../assets/formal.jpeg";
 import TypingEffect from "./TypingEffect";
 
 export default function Hero() {
