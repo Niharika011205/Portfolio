@@ -48,7 +48,7 @@ export default function Hero() {
         {/* CTA Buttons */}
         <div className="flex flex-col sm:flex-row justify-center gap-4 sm:gap-6 mb-12 sm:mb-16 px-4 sm:px-0">
           <a
-            href="https://drive.google.com/uc?export=download&id=1f7ZE5oGwSDmqmcgf1OFwippBmHMJAGrA"
+            href="https://drive.google.com/file/d/1Zq0D2YNmTrRKjpQsijFmFqhXfmyLCc2x/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="btn-primary flex items-center justify-center gap-2 sm:gap-3 text-base sm:text-lg py-3 sm:py-4"
